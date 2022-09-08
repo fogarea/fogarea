@@ -1,8 +1,19 @@
+<div align="center">
+  
 # 👋🏻 Hi there 
-### I'm a Front-end software engineer, [my cv](https://fogarea.github.io/cv/)
+  
+</div>
+
+<div align="center">
+  
+### I'm a Front-end software engineer
+### [my cv](https://fogarea.github.io/cv/)
+  
+</div>
 <br>
 
 ## 🛠️ Technologies
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="60" height="60"/>&nbsp;
@@ -10,6 +21,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODE" alt="NODE" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="WEBPACK" alt="WEBPACK" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="60" height="60"/>&nbsp;
+</div>
+
 
 <br>
 
@@ -39,5 +52,9 @@
 <br>
 
 ## 📊 Some statistics
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fogarea&theme=github-light">
-<img src="https://www.codewars.com/users/fog_area/badges/large">
+<div align="center">
+  <img src="https://www.codewars.com/users/fog_area/badges/large">
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fogarea&theme=github-light">
+</div>
