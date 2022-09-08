@@ -39,4 +39,5 @@
 <br>
 
 ## 📊 Some statistics
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fogarea&theme=github-light">
 <img src="https://www.codewars.com/users/fog_area/badges/large">
