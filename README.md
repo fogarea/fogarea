@@ -42,15 +42,6 @@
   > Project was written on TS with the use of MVC pattern.
   > [repository](https://github.com/Elijah-I/online-shop)
 
-### [Momentum](https://fogarea.github.io/momentum/)<br>
-
-  > A copy of an extension featuring audio player, weather, inspirational quotes, background images and to-do. <br>
-  > [repository](https://github.com/fogarea/momentum)
-
-### [Travel Portal](https://fogarea.github.io/travel-portal/)
-  > Responsive and interactive Travel Website. Made with HTML, CSS and JavaScript. <br>
-  > [repository](https://github.com/fogarea/travel-portal)
-
 <br>
 
 ## 🎒 Education
@@ -68,5 +59,5 @@
   <img src="https://www.codewars.com/users/fog_area/badges/large">
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fogarea&theme=github-light">
+  <img src="https://github-readme-stats.vercel.app/api?username=fogarea&show_icons=true&theme=city_lights">
 </div>
