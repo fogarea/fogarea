@@ -4,12 +4,18 @@
   
 </div>
 
-<div align="center">
+<div align="left">
   
-### I'm a Frontend developer
-### [my cv](https://fogarea.github.io/cv/)
+My name is Konstantin, and I'm a Frontend Developer. I'm always open to meeting and collaborating with new people.
+If you would like to get in touch, feel free to reach out to me using the provided links.
   
 </div>
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com)
+- [Telegram](https://telegram.com)
+- [Personal Website](https://fogarea.netlify.app/)
+
 <br>
 
 ## 🛠️ Technologies
@@ -28,21 +34,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="GIT" alt="GIT" width="60" height="60"/>&nbsp;
 </div>
 
-
 <br>
 
 ## 📒 My projects
-### [Fitness X](https://fitness-x.netlify.app/)<br>
+### [GraphiQL](https://graphi-ql-app.netlify.app/)<br>
 
-  > FitnestX is an application that combine workout app, meals recipes and playlists for meditations in one so that users will no longer need to use separate apps to keep. <br>
-  > This project is the result of a teamwork, where I was responsible for frontend and my teammate - for backend.
-  > The frontend part was written on TypeScript with the use of MVC pattern. Backend on NodeJS and Express.
+  > GraphiQL is a powerful in-browser GraphQL IDE that allows developers to interactively explore and test GraphQL APIs. It provides a user-friendly interface for composing GraphQL queries, viewing responses, and testing schema operations. <br>
+  > The development of this project involved the use of React, TypeScript, Zustand, and Firebase. <br>
+  > [Repository](https://github.com/fogarea/graphiql-app)
+
+
+### [FitnessX](https://fitness-x.netlify.app/)<br>
+
+  > FitnestX is a comprehensive application that combines workout tracking, meal recipes, and meditation playlists, eliminating the need for separate apps. <br>
+  > The project was developed using TypeScript, incorporating the MVC pattern and utilizing Webpack for efficient module bundling. <br>
   > [Repository](https://github.com/fogarea/RS-clone)
 
-### [Online Store](https://fogarea.github.io/online-shop/)<br>
 
-  > In this application you can choose a product by a filtering it using such parameters as categories, price and stock. In the cart you can increase the amount of items. When you're done you can fill in a form and place an order. <br>
-  > Project was written on TS with the use of MVC pattern.
+### [Hobby Art](https://fogarea.github.io/online-shop/)<br>
+
+  > The app offers a user-friendly interface to filter and select products by categories, price, and stock. Users can easily choose items and increase quantities in the cart. After shopping, a convenient form is available for placing orders. <br>
+  > This project was developed using TypeScript, leveraging the MVC pattern for a structured and efficient codebase. <br>
   > [Repository](https://github.com/fogarea/online-shop)
 
 <br>
