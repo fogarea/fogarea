@@ -12,9 +12,9 @@ If you would like to get in touch, feel free to reach out to me using the provid
 </div>
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com)
-- [Telegram](https://telegram.com)
-- [Personal Website](https://fogarea.netlify.app/)
+- Telegram: [@fogarea](https://t.me/fogarea)
+- Email: smirnov.konstantiin@gmail.com
+- Personal Website: [fogarea.netlify.app](https://fogarea.netlify.app/)
 
 <br>
 
@@ -44,7 +44,7 @@ If you would like to get in touch, feel free to reach out to me using the provid
   > [Repository](https://github.com/fogarea/graphiql-app)
 
 
-### [FitnessX](https://fitness-x.netlify.app/)<br>
+### [FitnessX](https://fogarea.github.io/RS-clone/)<br>
 
   > FitnestX is a comprehensive application that combines workout tracking, meal recipes, and meditation playlists, eliminating the need for separate apps. <br>
   > The project was developed using TypeScript, incorporating the MVC pattern and utilizing Webpack for efficient module bundling. <br>
@@ -64,6 +64,7 @@ If you would like to get in touch, feel free to reach out to me using the provid
   - Baccalaureate with School of Space and Information Technology
 
 ### The Rolling Scopes School (EPAM)
+  - React 2023Q1
   - JavaScript/Front-end 2022Q3 [certificate](https://app.rs.school/certificate/d2bakb1g)
   - JavaScript/Front-end Pre-School 2022Q2 [certificate](https://app.rs.school/certificate/txu66z2z)
 
