@@ -65,7 +65,7 @@ If you would like to get in touch, feel free to reach out to me using the provid
   - Baccalaureate with School of Space and Information Technology
 
 ### The Rolling Scopes School (EPAM)
-  - React 2023Q1
+  - React 2023Q1 [certificate](https://app.rs.school/certificate/7ogsklm8)
   - JavaScript/Front-end 2022Q3 [certificate](https://app.rs.school/certificate/d2bakb1g)
   - JavaScript/Front-end Pre-School 2022Q2 [certificate](https://app.rs.school/certificate/txu66z2z)
 
