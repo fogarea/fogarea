@@ -31,6 +31,7 @@ If you would like to get in touch, feel free to reach out to me using the provid
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="JEST" alt="JEST" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" title="WEBPACK" alt="WEBPACK" width="60" height="60"/>&nbsp;
   <img src="https://vitejs.dev/logo.svg" alt="VITE" title="VITE width="60" height="60"/>&nbsp;
+  <img src="https://github.com/fogarea/graphiql-app/assets/68968769/47ac2e5e-1f51-4b68-aeb0-12886c800b3e" title="Zustand" alt="Zustand" width="80" height="60"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="GIT" alt="GIT" width="60" height="60"/>&nbsp;
 </div>
 
