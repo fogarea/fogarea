@@ -75,6 +75,3 @@ If you would like to get in touch, feel free to reach out to me using the provid
 <div align="center">
   <img src="https://www.codewars.com/users/fog_area/badges/large">
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fogarea&show_icons=true&theme=city_lights">
-</div>
