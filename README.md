@@ -62,7 +62,8 @@ If you would like to get in touch, feel free to reach out to me using the provid
 
 ## 🎒 Education
 ### Siberian Federal University (2018-2022)
-  - Baccalaureate with School of Space and Information Technology
+  - School of Space and Information Technology
+  - Bachelor degree in Computer Science
 
 ### The Rolling Scopes School (EPAM)
   - React 2023Q1 [certificate](https://app.rs.school/certificate/7ogsklm8)
